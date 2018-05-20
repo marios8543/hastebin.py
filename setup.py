@@ -9,5 +9,5 @@ setup(
   url = 'https://github.com/LyricLy/hastebin.py',
   download_url = 'https://github.com/LyricLy/hastebin.py/archive/0.1.tar.gz',
   keywords = ['hastebin'],
-  install_requires = ['requests']
+  install_requires = ['requests','aiohttp']
 )
